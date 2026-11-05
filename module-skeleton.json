@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-seller-marketplace-flutter",
+  "capabilityKey": "planned:ecommerce:seller-marketplace",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_seller_marketplace_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/seller-marketplace.md",
+  "presentationPlan": "projects/ecommerce/flutter/seller-marketplace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
